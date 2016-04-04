@@ -2,4 +2,8 @@ Hiii
 
 File No.1
 
-First Starting File
+%%%%
+****
+
+I am merge 1 &
+I am merge 2
