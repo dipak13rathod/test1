@@ -1,9 +1,13 @@
 Hiii 
 
 
+<<<<<<< HEAD
 This is commited in temp
 edited in test
 
 
 
 
+=======
+****
+>>>>>>> a608e7c372ad80b50f9bf3f4a74c6c25a6c0aad9
