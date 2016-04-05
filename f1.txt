@@ -1,3 +1,15 @@
 Hiii 
 
+<<<<<<< HEAD
 I am The Above Files Owner...
+=======
+File No.1
+
+First Starting File
+<<<<<<< HEAD
+This is commited in temp
+edited in test
+=======
+This is commited in temp2
+>>>>>>> 3990d67c04095fad0b1a635920b0063052c44b98
+>>>>>>> 276e3d247a951cbd8786cfdd64fd3512e7db9d40
