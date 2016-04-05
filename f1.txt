@@ -1,7 +1,6 @@
 Hiii 
 
 
-<<<<<<< HEAD
 This is commited in temp
 edited in test
 
